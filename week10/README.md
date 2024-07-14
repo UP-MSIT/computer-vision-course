@@ -29,7 +29,7 @@ along with the weighted sum of the inputs.
 - **Key Processes**
   - **Feedforward**: The process where input data passes through the network layers
 to generate an output.
-  ![Screenshot 2024-07-14 at 3.19.36 PM.png](..%2F..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2F9d%2F7f20ppnx1tndyhj_ryqldllm0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_qQbRn0%2FScreenshot%202024-07-14%20at%203.19.36%E2%80%AFPM.png)
+  ![Screenshot 2024-07-14 at 3.19.36 PM.png](Screenshot 2024-07-14 at 3.19.36 PM.png)
   - **Backpropagation**: The training process that involves adjusting the weights and
   biases to minimize the error between the predicted output and the actual output
   - ![Screenshot 2024-07-14 at 3.21.04 PM.png](..%2F..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2F9d%2F7f20ppnx1tndyhj_ryqldllm0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_m3JEPQ%2FScreenshot%202024-07-14%20at%203.21.04%E2%80%AFPM.png)
