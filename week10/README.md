@@ -29,10 +29,10 @@ along with the weighted sum of the inputs.
 - **Key Processes**
   - **Feedforward**: The process where input data passes through the network layers
 to generate an output.
-  ![Screenshot 2024-07-14 at 3.19.36 PM.png](Screenshot 2024-07-14 at 3.19.36 PM.png)
+  ![Screenshot 2024-07-14 at 3.37.38 PM.png](Screenshot 2024-07-14 at 3.37.38 PM.png)
   - **Backpropagation**: The training process that involves adjusting the weights and
   biases to minimize the error between the predicted output and the actual output
-  - ![Screenshot 2024-07-14 at 3.21.04 PM.png](..%2F..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2F9d%2F7f20ppnx1tndyhj_ryqldllm0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_m3JEPQ%2FScreenshot%202024-07-14%20at%203.21.04%E2%80%AFPM.png)
+  - ![Screenshot 2024-07-14 at 3.38.35 PM.png](Screenshot 2024-07-14 at 3.38.35 PM.png)
   - **Common Activation Functions**
-    - ![Screenshot 2024-07-14 at 3.21.42 PM.png](..%2F..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2F9d%2F7f20ppnx1tndyhj_ryqldllm0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_Y3o0kZ%2FScreenshot%202024-07-14%20at%203.21.42%E2%80%AFPM.png)
-    - ![Screenshot 2024-07-14 at 3.21.53 PM.png](..%2F..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2F9d%2F7f20ppnx1tndyhj_ryqldllm0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_7aIEM2%2FScreenshot%202024-07-14%20at%203.21.53%E2%80%AFPM.png)
+    ![Screenshot 2024-07-14 at 3.39.20 PM.png](Screenshot%202024-07-14%20at%203.39.20%E2%80%AFPM.png)
+    ![Screenshot 2024-07-14 at 3.40.11 PM.png](Screenshot%202024-07-14%20at%203.40.11%E2%80%AFPM.png)
