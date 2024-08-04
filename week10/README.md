@@ -36,3 +36,12 @@ to generate an output.
   - **Common Activation Functions**
     ![Screenshot 2024-07-14 at 3.39.20 PM.png](Screenshot%202024-07-14%20at%203.39.20%E2%80%AFPM.png)
     ![Screenshot 2024-07-14 at 3.40.11 PM.png](Screenshot%202024-07-14%20at%203.40.11%E2%80%AFPM.png)
+
+# Computer Vision - 21 July 2024 - Week 11 - Online
+## 3.1 Recurrent Neural Network
+### **Introduction**
+**- What is RNNs?**
+  - Design for processing sequential data.  
+    - Sequential Proccessing: process data one step at a time
+    - Parameter Sharing: The same weights are used all the steps.
+- Difference Between RNNs and Tradition NNs

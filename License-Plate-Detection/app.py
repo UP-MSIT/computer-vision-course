@@ -11,7 +11,7 @@ import os
 from streamlit_webrtc import webrtc_streamer
 import av
 
-set_background("./imgs/background.png")
+# set_background("./imgs/background.png")
 
 folder_path = "./licenses_plates_imgs_detected/"
 LICENSE_MODEL_DETECTION_DIR = './models/license_plate_detector.pt'
@@ -172,25 +172,25 @@ def change_state_live():
 
 with header:
     _, col1, _ = st.columns([0.2, 1, 0.1])
-    col1.title("💥 License Car Plate Detection 🚗")
+    col1.title("Car Plate Detection 🚗")
 
-    _, col0, _ = st.columns([0.15, 1, 0.1])
-    col0.image("./imgs/test_background.jpg", width=500)
+    # _, col0, _ = st.columns([0.15, 1, 0.1])
+    # col0.image("./imgs/test_background.jpg", width=500)
 
-    _, col4, _ = st.columns([0.1, 1, 0.2])
-    col4.subheader("Computer Vision Detection with YoloV8 🧪")
+    _, col4, _ = st.columns([0.2, 1, 0.2])
+    col4.subheader("Computer Vision Detection with YoloV8")
 
     _, col, _ = st.columns([0.3, 1, 0.1])
     col.image("./imgs/plate_test.jpg")
 
-    _, col5, _ = st.columns([0.05, 1, 0.1])
-
-    st.write(
-        "The differents models detect the car and the license plate in a given image, then extracts the info about the license using EasyOCR, and crop and save the license plate as a Image, with a CSV file with all the data.   ")
+    # _, col5, _ = st.columns([0.05, 1, 0.1])
+    #
+    # st.write(
+    #     "The differents models detect the car and the license plate in a given image, then extracts the info about the license using EasyOCR, and crop and save the license plate as a Image, with a CSV file with all the data.   ")
 
 with body:
-    _, col1, _ = st.columns([0.1, 1, 0.2])
-    col1.subheader("Check It-out the License Car Plate Detection Model 🔎!")
+    # _, col1, _ = st.columns([0.1, 1, 0.2])
+    # col1.subheader("Check It-out the License Car Plate Detection Model 🔎!")
 
     _, colb1, colb2, colb3 = st.columns([0.2, 0.7, 0.6, 1])
 
